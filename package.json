@@ -1,0 +1,15 @@
+{
+  "name": "web-scraper-nodejs",
+  "version": "1.0.0",
+  "description": "A project to web scrape using Node JS,Nightmare and ElectronJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shankar Narayanan S",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.5",
+    "nightmare": "^3.0.2"
+  }
+}
