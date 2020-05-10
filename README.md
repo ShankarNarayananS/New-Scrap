@@ -1,4 +1,4 @@
-<h1>WebScraper using NodeJS and Nightmare JS</h1>
+<h1>WebScrap : A web scraping tool built using NodeJS and Nightmare JS</h1>
 
 ![](https://github.com/ShankarNarayananS/WebScraper/blob/master/Hacker-News.gif)
 
