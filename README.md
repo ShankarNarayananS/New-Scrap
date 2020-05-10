@@ -2,6 +2,10 @@
 
 ![](https://github.com/ShankarNarayananS/WebScraper/blob/master/Hacker-News.gif)
 
+
+<h2>Who is it for?</h2>
+<h4> Anybody who want to web scrap content legally for data analysis can use this project as a tool. </h4>
+
 <h2><ins>Required Dependencies</ins></h2>
 <h4>1. <a href="https://nodejs.org/en/download/">Node JS</a></h4>
 <h4>2. <a href="http://www.nightmarejs.org/">Nightmare JS</a></h4>
