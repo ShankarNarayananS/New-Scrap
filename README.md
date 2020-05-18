@@ -1,4 +1,4 @@
-<h1>WebScrap® : A Web Scraping tool built using NodeJS and NightmareJS</h1>
+<h1>NewScrap® : A Web Scraping tool built using NodeJS and NightmareJS</h1>
 
 ![](https://github.com/ShankarNarayananS/WebScraper/blob/master/Hacker-News.gif)
 
