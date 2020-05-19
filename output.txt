@@ -1,0 +1,902 @@
+[
+  {
+    author: 'beeeeeeeeeeeeen',
+    comments: '51 comments',
+    date: '6 hours ago',
+    points: '193 points',
+    source: 'benmosheron.gitlab.io',
+    title: 'How Distortion Works in Music',
+    url: 'https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html'
+  },
+  {
+    author: 'ketanmaheshwari',
+    comments: '207 comments',
+    date: '14 hours ago',
+    points: '973 points',
+    source: 'usenix.org',
+    title: 'Linux Productivity Tools (2019) [pdf]',
+    url: 'https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf'
+  },
+  {
+    author: 'rbanffy',
+    comments: '85 comments',
+    date: '1 hour ago',
+    points: '102 points',
+    source: 'techcrunch.com',
+    title: 'Walmart says it will discontinue Jet, which it acquired for $3B in 2016',
+    url: 'https://techcrunch.com/2020/05/19/walmart-says-it-will-discontinue-jet-com-which-it-acquired-for-3b-in-2016/'
+  },
+  {
+    author: 'PretzelFisch',
+    comments: '11 comments',
+    date: '1 hour ago',
+    points: '54 points',
+    source: 'burlingtonfreepress.com',
+    title: 'Vermont proposes providing broadband internet service to all state residents',
+    url: 'https://www.burlingtonfreepress.com/story/news/2020/05/06/vermont-proposes-providing-broadband-all-state-residents/5177598002/'
+  },
+  {
+    author: 'bollu',
+    comments: '51 comments',
+    date: '8 hours ago',
+    points: '218 points',
+    source: 'bollu.github.io',
+    title: 'The unreasonable effectiveness of declarative programming',
+    url: 'https://bollu.github.io/mathemagic/declarative/index.html'
+  },
+  {
+    author: 'Sean-Der',
+    comments: '4 comments',
+    date: '2 hours ago',
+    points: '17 points',
+    source: 'irif.fr',
+    title: 'Unnamed SFU – Open Source One-to-many videoconferencing for teaching/conferences',
+    url: 'https://www.irif.fr/~jch/software/sfu/'
+  },
+  {
+    author: 'ilmiont',
+    comments: '44 comments',
+    date: '1 hour ago',
+    points: '113 points',
+    source: 'bbc.co.uk',
+    title: 'EasyJet admits nine million customers hacked',
+    url: 'https://www.bbc.co.uk/news/technology-52722626'
+  },
+  {
+    author: 'dhab',
+    comments: '64 comments',
+    date: '6 hours ago',
+    points: '104 points',
+    source: false,
+    title: 'Ask HN: Production Lisp in 2020?',
+    url: 'item?id=23231701'
+  },
+  {
+    author: 'shawndumas',
+    comments: '22 comments',
+    date: '1 hour ago',
+    points: '34 points',
+    source: '500ish.com',
+    title: 'The Great Asshole Fallacy',
+    url: 'https://500ish.com/the-great-asshole-fallacy-82e108a755c7'
+  },
+  {
+    author: 'camone',
+    comments: '41 comments',
+    date: '2 hours ago',
+    points: '88 points',
+    source: 'theguardian.com',
+    title: "EasyJet reveals cyber-attack exposed 9m customers' details",
+    url: 'https://www.theguardian.com/business/2020/may/19/easyjet-cyber-attack-customers-details-credit-card'
+  },
+  {
+    author: 'timxor',
+    comments: '12 comments',
+    date: '1 hour ago',
+    points: '32 points',
+    source: false,
+    title: 'Ask HN: Production Prolog in 2020?',
+    url: 'item?id=23234017'
+  },
+  {
+    author: 'jph98',
+    comments: '49 comments',
+    date: '12 hours ago',
+    points: '192 points',
+    source: 'deezer.io',
+    title: 'Spleeter – Music Source-Separation Engine',
+    url: 'https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e'
+  },
+  {
+    author: 'todsacerdoti',
+    comments: '16 comments',
+    date: '7 hours ago',
+    points: '55 points',
+    source: 'emacsninja.com',
+    title: 'State of Emacs Lisp on Guile',
+    url: 'https://emacsninja.com/posts/state-of-emacs-lisp-on-guile.html'
+  },
+  {
+    author: 'qrv3w',
+    comments: '19 comments',
+    date: '7 hours ago',
+    points: '74 points',
+    source: 'schollz.com',
+    title: 'Reverse engineering the OP-1 drum patch',
+    url: 'https://schollz.com/blog/op1/'
+  },
+  {
+    author: 'MiquelLHC',
+    comments: '36 comments',
+    date: '7 hours ago',
+    points: '59 points',
+    source: 'planningpokeronline.com',
+    title: 'Show HN: Planning poker online – estimate tasks without influencing others',
+    url: 'https://planningpokeronline.com/'
+  },
+  {
+    author: 'vlaaad',
+    comments: '142 comments',
+    date: '5 hours ago',
+    points: '160 points',
+    source: 'defold.com',
+    title: 'Defold game engine source now available and free to use for commercial games',
+    url: 'https://defold.com/opensource/'
+  },
+  {
+    author: 'kfihihc',
+    comments: '21 comments',
+    date: '6 hours ago',
+    points: '46 points',
+    source: 'github.com',
+    title: 'A hand-wired USB and Bluetooth keyboard powered by Python',
+    url: 'https://github.com/makerdiary/python-keyboard'
+  },
+  {
+    author: 'Memosyne',
+    comments: '27 comments',
+    date: '10 hours ago',
+    points: '102 points',
+    source: 'github.com',
+    title: 'Iosevka, Version 3.0.0',
+    url: 'https://github.com/be5invis/Iosevka/releases'
+  },
+  {
+    author: 'dnetesn',
+    comments: '1 comment',
+    date: '4 hours ago',
+    points: '16 points',
+    source: 'phys.org',
+    title: 'Black holes and neutron stars merge unseen in dense star clusters',
+    url: 'https://phys.org/news/2020-05-black-holes-neutron-stars-merge.html'
+  },
+  {
+    author: 'bane',
+    comments: '53 comments',
+    date: '11 hours ago',
+    points: '137 points',
+    source: 'retool.com',
+    title: 'Technology that changed air travel',
+    url: 'https://retool.com/blog/air-travel-software/'
+  },
+  {
+    author: 'EndXA',
+    comments: '26 comments',
+    date: '14 hours ago',
+    points: '124 points',
+    source: 'nature.com',
+    title: 'Blind people ‘read’ letters that are traced on their brains with electricity',
+    url: 'https://www.nature.com/articles/d41586-020-01421-6'
+  },
+  {
+    author: 'pmatos',
+    comments: '15 comments',
+    date: '4 hours ago',
+    points: '44 points',
+    source: 'racket-news.com',
+    title: 'Racket News – Issue 31',
+    url: 'https://racket-news.com/2020/05/racket-news-issue-31.html'
+  },
+  {
+    author: 'WFHRenaissance',
+    comments: '592 comments',
+    date: '22 hours ago',
+    points: '1003 points',
+    source: 'wsj.com',
+    title: 'Uber cuts 3000 more jobs, closes 45 offices',
+    url: 'https://www.wsj.com/articles/uber-cuts-3-000-more-jobs-shuts-45-offices-in-coronavirus-crunch-11589814608'
+  },
+  {
+    author: 'segfaultbuserr',
+    comments: '50 comments',
+    date: '11 hours ago',
+    points: '83 points',
+    source: 'archive.org',
+    title: "Hardware Isn't Generally Copyrightable (2012)",
+    url: 'https://web.archive.org/web/20120114234704/http://wiki.openhardware.org/Hardware_Isn%27t_Generally_Copyrightable'
+  },
+  {
+    author: 'superasn',
+    comments: '38 comments',
+    date: '12 hours ago',
+    points: '86 points',
+    source: 'github.com',
+    title: "Show HN: Get help on any Linux command by typing 'howdoi –' in your terminal",
+    url: 'https://github.com/san-kumar/howdoi'
+  },
+  {
+    author: 'geewee',
+    comments: '1 comment',
+    date: '1 hour ago',
+    points: '16 points',
+    source: false,
+    title: 'Ask HN: Best resources to understand enterprise networking and security?',
+    url: 'item?id=23233893'
+  },
+  {
+    author: 'chrfrasco',
+    comments: '50 comments',
+    date: '10 hours ago',
+    points: '86 points',
+    source: 'stuffwithstuff.com',
+    title: 'What Color Is Your Function? (2015)',
+    url: 'http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function//'
+  },
+  {
+    author: 'garyclarke27',
+    comments: '521 comments',
+    date: '1 day ago',
+    points: '1435 points',
+    source: 'reclaimthenet.org',
+    title: 'Google bans Podcast Addict app over non-approved Covid-19 content',
+    url: 'https://reclaimthenet.org/google-play-suspends-podcast-addict/'
+  },
+  {
+    author: 'stanislavb',
+    comments: '105 comments',
+    date: '14 hours ago',
+    points: '84 points',
+    source: 'lh3.github.io',
+    title: 'Fast high-level programming languages',
+    url: 'https://lh3.github.io/2020/05/17/fast-high-level-programming-languages'
+  },
+  {
+    author: 'lelf',
+    comments: '192 comments',
+    date: '18 hours ago',
+    points: '358 points',
+    source: 'getmemex.com',
+    title: "WorldBrain's Memex: Bookmarking for the power users of the web",
+    url: 'https://getmemex.com/'
+  },
+  {
+    author: 'robbixcx',
+    comments: '130 comments',
+    date: '18 hours ago',
+    points: '404 points',
+    source: 'gassler.org',
+    title: 'I trick my well-developed procrastination skills',
+    url: 'https://wolfgang.gassler.org/trick-my-procrastination-skills'
+  },
+  {
+    author: 'danso',
+    comments: '203 comments',
+    date: '9 hours ago',
+    points: '400 points',
+    source: 'cbs12.com',
+    title: "Woman who designed Florida's Covid-19 dashboard removed from her position",
+    url: 'https://cbs12.com/news/local/woman-who-designed-floridas-covid-19-dashboard-has-been-removed-from-her-position'
+  },
+  {
+    author: 'Reventlov',
+    comments: '2 comments',
+    date: '6 hours ago',
+    points: '8 points',
+    source: 'github.com',
+    title: 'Poireau: A Sampling Allocation Debugger',
+    url: 'https://github.com/backtrace-labs/poireau'
+  },
+  {
+    author: 'sdan',
+    comments: '176 comments',
+    date: '1 day ago',
+    points: '871 points',
+    source: 'newcss.net',
+    title: 'New.css – A classless CSS framework to write modern websites using only HTML',
+    url: 'https://newcss.net/'
+  },
+  {
+    author: 'luu',
+    comments: '321 comments',
+    date: '21 hours ago',
+    points: '384 points',
+    source: 'guzey.com',
+    title: 'The effects on cognition of sleeping 4 hours per night for 12-14 days',
+    url: 'https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/'
+  },
+  {
+    author: 'js2',
+    comments: '65 comments',
+    date: '14 hours ago',
+    points: '83 points',
+    source: 'protoolreviews.com',
+    title: 'Power tool manufacturers and who owns them',
+    url: 'https://www.protoolreviews.com/news/power-tool-manufacturers-who-owns-them/43632/'
+  },
+  {
+    author: 'wwwdonohue',
+    comments: 'discuss',
+    date: '1 hour ago',
+    points: '7 points',
+    source: 'hbr.org',
+    title: 'Why Stock Buybacks Are Dangerous for the Economy',
+    url: 'https://hbr.org/2020/01/why-stock-buybacks-are-dangerous-for-the-economy'
+  },
+  {
+    author: 'todsacerdoti',
+    comments: '3 comments',
+    date: '8 hours ago',
+    points: '16 points',
+    source: 'asrpo.com',
+    title: 'Speed improvements using hash tables',
+    url: 'https://blog.asrpo.com/hashtables'
+  },
+  {
+    author: 'melvinroest',
+    comments: '30 comments',
+    date: '5 hours ago',
+    points: '26 points',
+    source: false,
+    title: 'Ask HN: I just started my first real workday, any tips?',
+    url: 'item?id=23225072'
+  },
+  {
+    author: 'lunchbreak',
+    comments: '493 comments',
+    date: '1 day ago',
+    points: '1335 points',
+    source: 'themargins.substack.com',
+    title: 'Doordash and Pizza Arbitrage',
+    url: 'https://themargins.substack.com/p/doordash-and-pizza-arbitrage'
+  },
+  {
+    author: 'bwooster',
+    comments: '1 comment',
+    date: '4 hours ago',
+    points: '4 points',
+    source: 'github.com',
+    title: 'Damn whos pumped for Perl in the browser?',
+    url: 'https://github.com/haukex/webperl'
+  },
+  {
+    author: 'bottle2',
+    comments: '62 comments',
+    date: '20 hours ago',
+    points: '307 points',
+    source: 'copetti.org',
+    title: 'Nintendo 64 Architecture – A Practical Analysis',
+    url: 'https://copetti.org/projects/consoles/nintendo-64/'
+  },
+  {
+    author: 'andinus',
+    comments: '1 comment',
+    date: '5 hours ago',
+    points: '5 points',
+    source: 'openbsd.org',
+    title: 'OpenBSD 6.7',
+    url: 'https://www.openbsd.org/67.html'
+  },
+  {
+    author: 'kiyanwang',
+    comments: 'discuss',
+    date: '1 hour ago',
+    points: '6 points',
+    source: 'medium.com',
+    title: 'If You Want to Be a Senior Developer, Stop Focusing on Syntax',
+    url: 'https://medium.com/better-programming/if-you-want-to-be-a-senior-developer-stop-focusing-on-syntax-d77b081cb10b'
+  },
+  {
+    author: 'feltarock',
+    comments: '75 comments',
+    date: '1 day ago',
+    points: '344 points',
+    source: 'feltrac.co',
+    title: 'What is a control system anyway?',
+    url: 'https://feltrac.co/control/2020/01/12/simple-control-systems.html'
+  },
+  {
+    author: 'xTWOz',
+    comments: 'discuss',
+    date: '1 hour ago',
+    points: '3 points',
+    source: 'medium.com',
+    title: 'How to facilitate a team vision workshop',
+    url: 'https://medium.com/swlh/how-to-facilitate-a-team-vision-workshop-d636c0e35c6'
+  },
+  {
+    author: 'Luc',
+    comments: '13 comments',
+    date: '16 hours ago',
+    points: '91 points',
+    source: 'fabiensanglard.net',
+    title: 'Revisiting the postcard pathtracer with CUDA and Optix',
+    url: 'https://fabiensanglard.net/revisiting_the_pathtracer/index.html'
+  },
+  {
+    author: 'stokesyio',
+    comments: '170 comments',
+    date: '15 hours ago',
+    points: '306 points',
+    source: 'tinyprojects.dev',
+    title: 'Tiny websites are great',
+    url: 'https://tinyprojects.dev/posts/tiny_websites_are_great'
+  },
+  {
+    author: 'networked',
+    comments: '24 comments',
+    date: '17 hours ago',
+    points: '122 points',
+    source: 'github.com',
+    title: 'Peer-to-peer canvas app for Urbit',
+    url: 'https://github.com/yosoyubik/canvas'
+  },
+  {
+    author: 'duck',
+    comments: '60 comments',
+    date: '15 hours ago',
+    points: '107 points',
+    source: 'ben-evans.com',
+    title: 'Covid and Cascading Collapses',
+    url: 'https://www.ben-evans.com/benedictevans/2020/5/4/covid-and-cascading-collapses'
+  },
+  {
+    author: 'kylebarron',
+    comments: '99 comments',
+    date: '16 hours ago',
+    points: '137 points',
+    source: 'dcrainmaker.com',
+    title: 'Strava cuts off leaderboard for free users, reduces third party apps',
+    url: 'https://www.dcrainmaker.com/2020/05/strava-cuts-off-leaderboard-for-free-users-reduces-3rd-party-apps-for-all-and-more.html'
+  },
+  {
+    author: 'jkuria',
+    comments: '96 comments',
+    date: '18 hours ago',
+    points: '124 points',
+    source: 'capitalandgrowth.org',
+    title: '“Become Abnormal”: traits to cultivate for top performance',
+    url: 'https://capitalandgrowth.org/answers/Article/3217401/This-One-Trait-Got-10-National-Championships-for-Coach-John-Wooden'
+  },
+  {
+    author: 'MikusR',
+    comments: '14 comments',
+    date: '21 hours ago',
+    points: '160 points',
+    source: 'd4stiny.github.io',
+    title: "How to Use Trend Micro's Rootkit Remover to Install a Rootkit",
+    url: 'https://d4stiny.github.io/How-to-use-Trend-Micro-Rootkit-Remover-to-Install-a-Rootkit/'
+  },
+  {
+    author: 'prismatic',
+    comments: '3 comments',
+    date: '12 hours ago',
+    points: '11 points',
+    source: 'tabletmag.com',
+    title: 'The Painting Behind the Door',
+    url: 'https://www.tabletmag.com/sections/arts-letters/articles/de-kooning-art-theft'
+  },
+  {
+    author: 'hellschreiber',
+    comments: '244 comments',
+    date: '21 hours ago',
+    points: '700 points',
+    source: 'marc.info',
+    title: 'John Carmack is reading and contributing to OpenBSD source code',
+    url: 'https://marc.info/?l=openbsd-tech&m=158965652915344&w=2'
+  },
+  {
+    author: 'simonpure',
+    comments: '45 comments',
+    date: '18 hours ago',
+    points: '112 points',
+    source: 'github.com',
+    title: 'Mediasoup – WebRTC video conferencing',
+    url: 'https://github.com/versatica/mediasoup'
+  },
+  {
+    author: 'doersino',
+    comments: 'discuss',
+    date: '17 hours ago',
+    points: '17 points',
+    source: 'excessivelyadequate.com',
+    title: 'Drawing the Sierpiński Triangle with Recursive SQL and SVG',
+    url: 'https://excessivelyadequate.com/posts/sierpinksy.html'
+  },
+  {
+    author: 'minimaxir',
+    comments: '34 comments',
+    date: '22 hours ago',
+    points: '161 points',
+    source: 'github.com',
+    title: 'Show HN: A Python tool for text-based AI training and generation using GPT-2',
+    url: 'https://github.com/minimaxir/aitextgen'
+  },
+  {
+    author: false,
+    comments: false,
+    date: '13 hours ago',
+    points: false,
+    source: 'mux.com',
+    title: "Mux (YC W16) is hiring a product designer that's excited about developer tools",
+    url: 'https://mux.com/jobs?hnj=14'
+  },
+  {
+    author: 'p4bl0',
+    comments: 'discuss',
+    date: '19 hours ago',
+    points: '38 points',
+    source: 'nofreeviewnoreview.org',
+    title: 'No free view? No review.',
+    url: 'https://nofreeviewnoreview.org/'
+  },
+  {
+    author: 'behnamoh',
+    comments: '55 comments',
+    date: '9 hours ago',
+    points: '33 points',
+    source: false,
+    title: "Ask HN: Now we're staying inside with Wi-Fi, have you changed your cell plan?",
+    url: 'item?id=23231254'
+  },
+  {
+    author: 'rguiscard',
+    comments: '244 comments',
+    date: '1 day ago',
+    points: '363 points',
+    source: 'dw.com',
+    title: "Germany's data chief tells ministries WhatsApp is a no-go",
+    url: 'https://www.dw.com/en/germanys-data-chief-tells-ministries-whatsapp-is-a-no-go/a-53474413'
+  },
+  {
+    author: 'karanganesan',
+    comments: '77 comments',
+    date: '22 hours ago',
+    points: '109 points',
+    source: 'oculus.com',
+    title: 'Oculus: Hand Tracking Updates',
+    url: 'https://developer.oculus.com/blog/hand-tracking-updates-accepting-app-submissions-starting-may-28/'
+  },
+  {
+    author: 'pjf',
+    comments: '84 comments',
+    date: '18 hours ago',
+    points: '328 points',
+    source: 'grafana.com',
+    title: 'Grafana 7.0',
+    url: 'https://grafana.com/blog/2020/05/18/grafana-v7.0-released-new-plugin-architecture-visualizations-transformations-native-trace-support-and-more/?isource=hp'
+  },
+  {
+    author: 'zaggynl',
+    comments: '1128 comments',
+    date: '22 hours ago',
+    points: '1724 points',
+    source: 'support.google.com',
+    title: 'Google deletes “communist bandits” from comments on Youtube',
+    url: 'https://support.google.com/youtube/thread/19190975?hl=en'
+  },
+  {
+    author: 'cft',
+    comments: '300 comments',
+    date: '21 hours ago',
+    points: '395 points',
+    source: 'github.com',
+    title: 'Termux and Android 10',
+    url: 'https://github.com/termux/termux-packages/wiki/Termux-and-Android-10'
+  },
+  {
+    author: 'dsavant',
+    comments: 'discuss',
+    date: '11 hours ago',
+    points: '37 points',
+    source: 'venturebeat.com',
+    title: 'Apple accuses U.S. of ‘false claims’ on Pensacola terror investigation',
+    url: 'https://venturebeat.com/2020/05/18/apple-accuses-u-s-of-false-claims-on-pensacola-terror-investigation/'
+  },
+  {
+    author: 'bb611',
+    comments: '1 comment',
+    date: '18 hours ago',
+    points: '111 points',
+    source: 'eff.org',
+    title: 'Victory! ICANN Rejects .ORG Sale to Private Equity Firm Ethos Capital',
+    url: 'https://www.eff.org/deeplinks/2020/04/victory-icann-rejects-org-sale-private-equity-firm-ethos-capital'
+  },
+  {
+    author: 'jdgiese',
+    comments: '53 comments',
+    date: '20 hours ago',
+    points: '83 points',
+    source: 'innolitics.com',
+    title: 'Why Does the DICOM Standard Exist?',
+    url: 'https://innolitics.com/articles/dicom-i-facilitating-interoperability/'
+  },
+  {
+    author: 'matt_d',
+    comments: '23 comments',
+    date: '20 hours ago',
+    points: '90 points',
+    source: 'travisdowns.github.io',
+    title: 'Ice Lake Store Elimination',
+    url: 'https://travisdowns.github.io/blog/2020/05/18/icelake-zero-opt.html'
+  },
+  {
+    author: 'hhs',
+    comments: '24 comments',
+    date: '21 hours ago',
+    points: '89 points',
+    source: 'nber.org',
+    title: 'How venture capital follows the economy down and curtails innovation',
+    url: 'https://www.nber.org/papers/w27150'
+  },
+  {
+    author: 'elsewhen',
+    comments: '619 comments',
+    date: '1 day ago',
+    points: '671 points',
+    source: 'krebsonsecurity.com',
+    title: 'US Secret Service: “Massive Fraud” Against State Unemployment Insurance Programs',
+    url: 'https://krebsonsecurity.com/2020/05/u-s-secret-service-massive-fraud-against-state-unemployment-insurance-programs/'
+  },
+  {
+    author: 'peterburkimsher',
+    comments: '295 comments',
+    date: '1 day ago',
+    points: '346 points',
+    source: 'medium.com',
+    title: 'The Death of Couchsurfing?',
+    url: 'https://medium.com/@jameshopest/the-death-of-couchsurfing-a87d9537edf2'
+  },
+  {
+    author: 'Const-me',
+    comments: '16 comments',
+    date: '1 day ago',
+    points: '36 points',
+    source: 'github.com',
+    title: 'Show HN: Vrmac Graphics, a cross-platform graphics library for .NET',
+    url: 'https://github.com/Const-me/Vrmac'
+  },
+  {
+    author: 'Jaruzel',
+    comments: '729 comments',
+    date: '2 days ago',
+    points: '507 points',
+    source: false,
+    title: 'Ask HN: Is there still a place for native desktop apps?',
+    url: 'item?id=23211851'
+  },
+  {
+    author: 'evo_9',
+    comments: '48 comments',
+    date: '11 hours ago',
+    points: '54 points',
+    source: 'mondaynote.com',
+    title: 'Deconfinement: The Price of Human Life',
+    url: 'https://mondaynote.com/deconfinement-the-price-of-human-life-ebeae82edafd'
+  },
+  {
+    author: 'nromiun',
+    comments: '1 comment',
+    date: '4 hours ago',
+    points: '9 points',
+    source: 'reuters.com',
+    title: "China ready to put Apple, other U.S. companies in 'unreliable entity list'",
+    url: 'https://www.reuters.com/article/us-usa-huawei-tech-china/china-ready-to-put-apple-other-u-s-companies-in-unreliable-entity-list-global-times-idUSKBN22R1X2'
+  },
+  {
+    author: 'amirmasoudabdol',
+    comments: '39 comments',
+    date: '23 hours ago',
+    points: '92 points',
+    source: 'codingnest.com',
+    title: 'Generating random numbers using C++ standard library: the problems',
+    url: 'https://codingnest.com/generating-random-numbers-using-c-standard-library-the-problems/'
+  },
+  {
+    author: 'citilife',
+    comments: '8 comments',
+    date: '19 hours ago',
+    points: '59 points',
+    source: 'newsweek.com',
+    title: 'New List of Americans Tracked Without Needing a Warrant',
+    url: 'https://www.newsweek.com/trumps-secret-new-watchlist-lets-his-administration-track-americans-without-needing-warrant-1504772'
+  },
+  {
+    author: 'benitorosenberg',
+    comments: '12 comments',
+    date: '1 day ago',
+    points: '113 points',
+    source: 'github.com',
+    title: 'Show HN: Little Ball of Fur – A Python library for graph subsampling',
+    url: 'https://github.com/benedekrozemberczki/LittleBallOfFur'
+  },
+  {
+    author: 'lanecwagner',
+    comments: '61 comments',
+    date: '2 hours ago',
+    points: '42 points',
+    source: 'qvault.io',
+    title: 'Leave Scrum to Rugby, I Like Getting Stuff Done',
+    url: 'https://qvault.io/2020/05/18/leave-scrum-to-rugby-i-like-getting-stuff-done/'
+  },
+  {
+    author: 'spudlyo',
+    comments: '214 comments',
+    date: '20 hours ago',
+    points: '292 points',
+    source: 'bloomberg.com',
+    title: 'The Unicorns Fell into a Ditch',
+    url: 'https://www.bloomberg.com/opinion/articles/2020-05-18/the-unicorns-fell-into-a-ditch'
+  },
+  {
+    author: 'miles',
+    comments: '134 comments',
+    date: '9 hours ago',
+    points: '215 points',
+    source: 'courier-journal.com',
+    title: "Rand Paul says no-knock warrants 'should be forbidden' in wake of shooting",
+    url: 'https://www.courier-journal.com/story/news/politics/2020/05/18/rand-paul-no-knock-warrants-should-forbidden/5215149002/'
+  },
+  {
+    author: 'pseudolus',
+    comments: '194 comments',
+    date: '1 day ago',
+    points: '310 points',
+    source: 'bloomberg.com',
+    title: 'SoftBank’s Vision Fund Loses $17.7B on WeWork, Uber',
+    url: 'https://www.bloomberg.com/news/articles/2020-05-18/softbank-vision-fund-books-17-7-billion-loss-on-wework-uber'
+  },
+  {
+    author: 'therealchiggs',
+    comments: '206 comments',
+    date: '1 day ago',
+    points: '168 points',
+    source: 'nikkei.com',
+    title: 'TSMC halts new Huawei orders after US tightens restrictions',
+    url: 'https://asia.nikkei.com/Spotlight/Huawei-crackdown/TSMC-halts-new-Huawei-orders-after-US-tightens-restrictions'
+  },
+  {
+    author: 'KarlKemp',
+    comments: '3 comments',
+    date: '5 hours ago',
+    points: '8 points',
+    source: 'trust.org',
+    title: 'Germany’s Top Court Extends Privacy Rights to Foreigners, Halts Wiretap Programs',
+    url: 'https://news.trust.org/item/20200519072904-kkpa7/'
+  },
+  {
+    author: 'mmcloughlin',
+    comments: '337 comments',
+    date: '2 days ago',
+    points: '645 points',
+    source: 'drmaciver.com',
+    title: 'It’s OK for your open source library to be a bit shitty (2015)',
+    url: 'https://www.drmaciver.com/2015/04/its-ok-for-your-open-source-library-to-be-a-bit-shitty/'
+  },
+  {
+    author: 'yogiUSA',
+    comments: '1 comment',
+    date: '9 hours ago',
+    points: '18 points',
+    source: 'cbsnews.com',
+    title: 'J.C. Penney is closing 240 stores as part of its bankruptcy plan',
+    url: 'https://www.cbsnews.com/news/jc-penney-closing250-stores-banktrupcy-restructuring-plan/'
+  },
+  {
+    author: 'kristintynski',
+    comments: '21 comments',
+    date: '20 hours ago',
+    points: '96 points',
+    source: 'lawsuit.org',
+    title: 'Show HN: I scraped local court records to find dirty cops',
+    url: 'https://lawsuit.org/keeping-cops-accountable/'
+  },
+  {
+    author: 'anegri',
+    comments: '157 comments',
+    date: '2 days ago',
+    points: '539 points',
+    source: 'gitlab.com',
+    title: 'Show HN: Trade stocks from the command line with no commission',
+    url: 'https://gitlab.com/aenegri/toro'
+  },
+  {
+    author: 'kkotak',
+    comments: '8 comments',
+    date: '15 hours ago',
+    points: '55 points',
+    source: 'theverge.com',
+    title: 'A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16',
+    url: 'https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy'
+  },
+  {
+    author: 'todsacerdoti',
+    comments: 'discuss',
+    date: '16 hours ago',
+    points: '16 points',
+    source: 'ahuth.github.io',
+    title: 'Logic Gates in JavaScript',
+    url: 'https://ahuth.github.io/articles/logic-gates-in-javascript.html'
+  },
+  {
+    author: 'ingve',
+    comments: '36 comments',
+    date: '23 hours ago',
+    points: '103 points',
+    source: 'psychologytoday.com',
+    title: 'Negative News Distorts Our Thinking',
+    url: 'https://www.psychologytoday.com/us/blog/the-modern-brain/201909/how-negative-news-distorts-our-thinking'
+  },
+  {
+    author: 'prostoalex',
+    comments: '368 comments',
+    date: '1 day ago',
+    points: '224 points',
+    source: 'nautil.us',
+    title: 'Electrons May Well Be Conscious',
+    url: 'http://nautil.us//blog/electrons-may-very-well-be-conscious'
+  },
+  {
+    author: 'jonluca',
+    comments: '13 comments',
+    date: '21 hours ago',
+    points: '54 points',
+    source: 'jonlu.ca',
+    title: 'JavaScript Promise.all vs. Promise.allSettled',
+    url: 'https://blog.jonlu.ca/posts/promises?ref=hnm18'
+  },
+  {
+    author: 'sobermanman',
+    comments: '17 comments',
+    date: '23 hours ago',
+    points: '69 points',
+    source: 'jsof-tech.com',
+    title: 'Unpacking HP Firmware Updates',
+    url: 'https://jsof-tech.com/unpacking-hp-firmware-updates-part-1/'
+  },
+  {
+    author: 'Gormisdomai',
+    comments: '35 comments',
+    date: '2 days ago',
+    points: '362 points',
+    source: '100r.co',
+    title: 'Ronin – A Lisp-based image processing tool',
+    url: 'https://100r.co/site/ronin.html'
+  },
+  {
+    author: 'ckdiii',
+    comments: 'discuss',
+    date: '49 minutes ago',
+    points: '4 points',
+    source: 'bleepingcomputer.com',
+    title: 'Hacker sells 129M sensitive records of Russian car owners',
+    url: 'https://www.bleepingcomputer.com/news/security/hacker-sells-129-million-sensitive-records-of-russian-car-owners/'
+  },
+  {
+    author: 'ValentineC',
+    comments: '14 comments',
+    date: '12 hours ago',
+    points: '37 points',
+    source: 'theverge.com',
+    title: 'Microsoft: We were wrong about open source',
+    url: 'https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement'
+  },
+  {
+    author: 'walterbell',
+    comments: '160 comments',
+    date: '1 day ago',
+    points: '133 points',
+    source: 'chicagobusiness.com',
+    title: 'Coronavirus will end the golden age for college towns',
+    url: 'https://www.chicagobusiness.com/opinion/coronavirus-will-end-golden-age-college-towns'
+  }
+]
