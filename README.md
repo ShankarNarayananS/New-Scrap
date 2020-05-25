@@ -2,6 +2,9 @@
 
 ![](https://github.com/ShankarNarayananS/WebScraper/blob/master/Hacker-News.gif)
 
+
+<h3> Click <a href="https://www.youtube.com/watch?v=U_kl_ULcO_Y">here</a> for a better view </h3>
+
 <h3> Here's the <a href="https://news.ycombinator.com/news">webpage</a> I used for this project and here's the <a href="https://github.com/ShankarNarayananS/News-Scrap/blob/master/output.txt">output</a>. Since each website is not the same, you have to modify the headers in the code to match the ones in the webpage. </h3>
 
 
